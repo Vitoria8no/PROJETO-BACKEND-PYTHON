@@ -1,4 +1,4 @@
-# 🚀 Sistema de Gerenciamento de Usuários (CRUD)
+# 💻 Sistema de Gerenciamento de Usuários (CRUD)
 
 Este é um projeto em *Python* focado em Back-end, onde desenvolvi um sistema modular para gerenciar usuários utilizando um banco de dados *SQLite*.
 
