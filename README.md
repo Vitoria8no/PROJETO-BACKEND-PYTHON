@@ -21,7 +21,10 @@ Neste projeto, apliquei conceitos de *Modularização, **Persistência de Dados*
 
 
 
-# meu nome éjessica silva
+# meu nome é jessica silva
 
 
 nova atualização nova branch
+
+
+hoje eu resolvi o problem do bug
