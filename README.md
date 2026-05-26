@@ -17,3 +17,8 @@ Este é um projeto em *Python* focado em Back-end, onde desenvolvi um sistema mo
 
 ## 🧠 O que eu aprendi
 Neste projeto, apliquei conceitos de *Modularização, **Persistência de Dados* e *UX no Terminal* (limpeza de tela e pausas)
+
+
+
+
+# meu nome éjessica silva
